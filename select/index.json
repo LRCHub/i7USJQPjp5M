@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "私、負けない!～ハルカのテーマ～",
+  "base_artist": "ハルカ(KAORI)",
+  "createdAt": "2026-03-29T21:29:30.558994Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "私、負けない！ ～ハルカのテーマ～ (オリジナル・カラオケ) / Watashi, Makenai! ~Haruka no Teema~ (Orijinaru Karaoke)",
+      "artist": "KAORI",
+      "has_synced": true,
+      "path": "select/01_私、負けない!_~ハルカのテーマ~_(オリジナル・カラオケ)___Watashi,_Makenai!_~Haruka_no_Teema~_(Orijinaru__KAORI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "私、負けない! 〜ハルカのテーマ〜",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/02_私、負けない!_〜ハルカのテーマ〜_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "私、負けない! ~ハルカのテーマ~",
+      "artist": "KAORI",
+      "has_synced": true,
+      "path": "select/03_私、負けない!_~ハルカのテーマ~_KAORI.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "私、負けない! ~ハルカのテーマ~",
+      "artist": "ハルカ(KAORI)",
+      "has_synced": true,
+      "path": "select/04_私、負けない!_~ハルカのテーマ~_ハルカ(KAORI).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "私、負けない! ~ハルカのテーマ~",
+      "artist": "Pikachu Records",
+      "has_synced": true,
+      "path": "select/05_私、負けない!_~ハルカのテーマ~_Pikachu_Records.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "私、負けない! ~ハルカのテーマ~",
+      "artist": "ハルカ(CV:KAORI)",
+      "has_synced": true,
+      "path": "select/06_私、負けない!_~ハルカのテーマ~_ハルカ(CV_KAORI).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "私、負けない! ?ハルカのテーマ?",
+      "artist": "ハルカ (KAORI)",
+      "has_synced": true,
+      "path": "select/07_私、負けない!__ハルカのテーマ_ハルカ_(KAORI).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "私、負けない! ～ハルカのテーマ～",
+      "artist": "ハルカ (KAORI)",
+      "has_synced": false,
+      "path": "select/pl_01_私、負けない!_~ハルカのテーマ~_ハルカ_(KAORI).txt"
+    }
+  ]
+}
